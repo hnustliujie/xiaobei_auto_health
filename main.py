@@ -34,7 +34,7 @@ if location_r_data['status'] == 0:
     district = location_r_data['result']['addressComponent']['district']
     zh_location = '中国-' + province + '-' + city + '-' + district
 else:
-    print("位置获取失败")
+    print("位置获取失败la")
     os._exit(0)
 
 #体温随机
