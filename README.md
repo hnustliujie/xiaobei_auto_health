@@ -16,7 +16,7 @@ https://blog.csdn.net/qq1332479771/article/details/56087333
 
 # 使用方法
 
-## 1. fork 本项目o
+## 1. fork 本项目of
 **在这之前，你可能得先注册一个 github 账号**
 
 
